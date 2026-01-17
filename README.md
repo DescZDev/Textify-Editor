@@ -25,7 +25,7 @@ Inspired by **Visual Studio 2022** and **VS Code**, it combines a polished dark 
 
 - 🧠 **Smart Editing**
   - Syntax-friendly editor behavior
-  - Auto-pairing for `{ }`, `< >`, `( )`, `[ ]`
+  - Auto-pairing for `{ }`,`< >`,`( )`,`[ ]`
   - Clean formatting and indentation logic
 
 - 🧰**Custom Renderer**
