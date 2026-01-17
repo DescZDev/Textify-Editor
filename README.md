@@ -18,7 +18,6 @@ Inspired by **Visual Studio 2022** and **VS Code**, it combines a polished dark 
 
 - 🎨 **Modern Dark UI**
   - Custom Controls & Layouts
-  - VS2022-style colors and accents
   - Clean, distraction-free layout
 
 - 🧠 **Smart Editing**
@@ -49,7 +48,5 @@ Inspired by **Visual Studio 2022** and **VS Code**, it combines a polished dark 
 - **.NET 4.8 (WinForms)**
 - **ScintillaNET** (editor component)
 - Custom `Renderer's`
-
-sxtifyfytom `Renderer's
 
 ---
