@@ -1,4 +1,4 @@
-layoutout Textify Editor
+# Textify Editor
 
 **Textify Editor** is a modern, lightweight text editor built with **C# WinForms**, focused on clean UI, performance, and developer-friendly editing features.  
 Inspired by **Visual Studio 2022** and **VS Code**, it combines a polished dark theme with custom rendering and a smooth editing experience.
