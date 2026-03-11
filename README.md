@@ -50,7 +50,7 @@ Inspired by **Visual Studio 2022** and **VS Code**, it combines a polished dark 
 - **C#**
 - **.NET 4.8 (WinForms)**
 - **ScintillaNET** (editor component)
-- Custom `Renderer's`
+- Custom `Rendering`
 - **Visual Studio 2026**
 
 ---
